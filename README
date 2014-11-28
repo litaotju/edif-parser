@@ -1,0 +1,8 @@
+11.28 23:15
+./edn_parse ./test_dir/iir.edn成功验证
+yyparse(最顶层的action直接可以传递到main函数当中)
+下一步工作:写出搜索函数.改进代码.
+			可以在不同层次的action加入到中加入为外部变量赋值的情况,
+			也就是不一定直接要考语意值的传递来建立整个树;
+			可以直接做{extern variable=createList(^^^^^);}来实现数据库的建立
+			
