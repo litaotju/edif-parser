@@ -1,4 +1,4 @@
-# What is edn-parser
+# What is edif-parser
 edif-parser is a ansi c project to build a EDIF(Electronic Design Interchange Format) parser.
 
 # Technology Used
